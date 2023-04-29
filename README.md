@@ -1,4 +1,4 @@
-# FustureTale Hotel Reservation Case Study
+# FutureTale Hotel Reservation Case Study
 
 #Project Problem
 FutureTale Hotel is having reservation challenges because significant reservation cancelation and causing revenue loss.
