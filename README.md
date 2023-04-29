@@ -1,9 +1,9 @@
 # FustureTale Hotel Reservation Case Study
 
-# Project Problem
+## Project Problem
 FutureTale Hotel is having reservation challenges because significant reservation cancelation and causing revenue loss.
 
-# Action
+## Action
 1. Checked for duplicates using the remove duplicate function
 2. Filtered columns to check inconsistency in data
 3. Used the sum function find Total Nights
@@ -16,7 +16,7 @@ FutureTale Hotel is having reservation challenges because significant reservatio
 10. Dashboard creation to visualize analysis
 11. Slicers are inserted to filter dashboard charts
 
-# Finding
+## Finding
 - 357% increment inreservation with cancellation increament of 1,037% between 2017 and 2018
 - $4.2 loss in revenue due to reservation cancellation
 - 64% of reservation is made via online channel contributing to more than half of revenue
@@ -24,7 +24,7 @@ FutureTale Hotel is having reservation challenges because significant reservatio
 - Reservations peak in October with 5,317 bookings
 - Room_Type 1 is the choicest room with 78% booking
 
-# Recommedation
+## Recommedation
 - Penalties should be introduced to curb long lead time hence reducing revenue loss
 - Re-evalaluate services provided by other room types other than Room_Type 1 to increase revenue
 - Promote other reservation channels with add-in to boost bookings and revenue
