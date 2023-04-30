@@ -1,12 +1,15 @@
 # FutureTale Hotel Reservation Case Study
 
 #About FutureTale Hotel:
+
 FutureTale Hotel is a modernised hotel with state of the art facilities to give customers undeniable comfort
 
 #Project Problem:
+
 FutureTale Hotel is having reservation challenges due significant reservation cancellation which is causing revenue loss
 
 #Dataset:
+
 The reservation MS Excel dataset contained 36,276 records and 19 columns. 
 The features include booking ID, number of adults, number of children, number of weekend nights, number of week nights, type of meal plan, required car parking space, room type reserved, lead time, arrival year, arrival month, arrival date, market segment type, repeated guest, number of previous cancellation, number of previous bookings not cancelled, average price per room, number of special guest and booking status
 
