@@ -1,5 +1,7 @@
 # FutureTale Hotel Reservation Case Study
 
+![SharedScreenshot](https://user-images.githubusercontent.com/128720674/236288986-62d80bc3-c0db-4356-9810-6b9191642aec.jpg)
+
 #About FutureTale Hotel:
 
 FutureTale Hotel is a modernised hotel with state of the art facilities to give customers undeniable comfort
