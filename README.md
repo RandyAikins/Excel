@@ -17,7 +17,7 @@ The features include booking ID, number of adults, number of children, number of
 
 #Action:
 1. Checked for duplicates using the remove duplicate function
-2. Created a Table from dataset and Filtered columns to check inconsistency in data
+2. Created a Table from dataset and Filtered columns to check data inconsistency
 3. Used the sum function to find Total Nights
 4. Multiplied Total Night by Average Price to find Revenue
 5. Used If function to seperate revenue into Revenue received and Revenue lost
