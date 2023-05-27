@@ -30,7 +30,7 @@ The features include booking ID, number of adults, number of children, number of
 
 #Finding:
 - 357% increment in reservation with cancellation increment of 1,037% between 2017 and 2018
-- $4.2 loss in revenue due to reservation cancellation
+- $4.2m loss in revenue due to reservation cancellation
 - 64% of reservation is made via online channel contributing to more than half of revenue
 - Lead time lenght can predict the likehood of reservation cancellation
 - Reservations peak in October with 5,317 bookings
